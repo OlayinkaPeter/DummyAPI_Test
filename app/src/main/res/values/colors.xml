@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#54d7c7</color>
+    <color name="colorPrimaryDark">#18af9d</color>
+    <color name="colorAccent">#db342d</color>
+
+    <color name="bg_account">#2e457dff</color>
+    <color name="colorBtnGoogle">#2245ff48</color>
+
+    <color name="white">#ffffff</color>
+    <color name="red">#64ff1744</color>
+    <color name="blue">#64457dff</color>
+    <color name="grey">#645c5f60</color>
+    <color name="yellow">#64f9cf25</color>
+    <color name="green">#6476f768</color>
+    <color name="black">#64000000</color>
+    <color name="orange">#64f7a668</color>
+</resources>
