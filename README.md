@@ -9,7 +9,7 @@ DummyAPI_Test displays a list of users from dummyapi.io/data/api/user with the l
 <img src="https://github.com/OlayinkaPeter/DummyAPI_Test/blob/master/screenshots/screenshot_user_list.jpeg" width="30%">
 </p>
 
-### USer details Activity
+### User details Activity
 <img src="https://github.com/OlayinkaPeter/DummyAPI_Test/blob/master/screenshots/screenshot_single_user.jpeg" width="30%">
 
     
