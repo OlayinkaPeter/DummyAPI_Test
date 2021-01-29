@@ -4,13 +4,11 @@ DummyAPI_Test displays a list of users from dummyapi.io/data/api/user with the l
 
 
 ## Screenshots
-### List of users
+### List of users + User details 
 <p align="start">
 <img src="https://github.com/OlayinkaPeter/DummyAPI_Test/blob/master/screenshots/screenshot_user_list.jpeg" width="30%">
-</p>
-
-### User details Activity
 <img src="https://github.com/OlayinkaPeter/DummyAPI_Test/blob/master/screenshots/screenshot_single_user.jpeg" width="30%">
+</p>
 
     
 ## Libraries Used
