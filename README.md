@@ -4,12 +4,12 @@ DummyAPI_Test displays a list of users from dummyapi.io/data/api/user with the l
 
 
 ## Screenshots
-### Botton Tabbed Navigation for Airing Today, Popular Tv Shows, and Favorite Tv Shows
+### List of users
 <p align="start">
 <img src="https://github.com/OlayinkaPeter/DummyAPI_Test/blob/master/screenshots/screenshot_user_list.jpeg" width="30%">
 </p>
 
-### Details Activity
+### USer details Activity
 <img src="https://github.com/OlayinkaPeter/DummyAPI_Test/blob/master/screenshots/screenshot_single_user.jpeg" width="30%">
 
     
